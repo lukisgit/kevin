@@ -1,0 +1,6 @@
+export enum ACTIONS {
+  SET_CELL = 'SET_CELL',
+  SET_TURN = 'SET_TURN',
+  PREPARE_GAME = 'PREPARE_GAME',
+  REFRESH = 'REFRESH',
+}
